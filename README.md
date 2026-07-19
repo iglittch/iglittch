@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working towards a **Diploma in IT**
 - 🌱 Current Personal Study : **Harvard's CS50p**
-- ⚡ Hobbies **History, Gaming and Psychology**
+- ⚡ Hobbies include **History, Gaming and Psychology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
